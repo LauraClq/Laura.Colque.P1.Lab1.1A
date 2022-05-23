@@ -1,0 +1,112 @@
+# depslib dependency file v1.0
+1653308699 source:c:\users\laura\desktop\pp_lab1colquelaura\pplaboratorio1\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Cliente.h"
+	"Utn.h"
+
+1653308001 c:\users\laura\desktop\pp_lab1colquelaura\pplaboratorio1\cliente.h
+
+1653097176 c:\users\laura\desktop\pp_lab1colquelaura\pplaboratorio1\utn.h
+
+1652737237 source:c:\users\laura\desktop\pp_lab1colquelaura\pplaboratorio1\fecha.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Fecha.h"
+
+1652280080 c:\users\laura\desktop\pp_lab1colquelaura\pplaboratorio1\fecha.h
+
+1653317605 source:c:\users\laura\desktop\pp_lab1colquelaura\pplaboratorio1\informes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Informes.h"
+	"Menu.h"
+	"Utn.h"
+
+1653110899 source:c:\users\laura\desktop\pp_lab1colquelaura\pplaboratorio1\marca.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Marca.h"
+
+1652763846 c:\users\laura\desktop\pp_lab1colquelaura\pplaboratorio1\marca.h
+
+1653317396 source:c:\users\laura\desktop\pp_lab1colquelaura\pplaboratorio1\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"Menu.h"
+
+1653316328 source:c:\users\laura\desktop\pp_lab1colquelaura\pplaboratorio1\notebook.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Notebook.h"
+	"Menu.h"
+	"Informes.h"
+	"Utn.h"
+
+1653316328 c:\users\laura\desktop\pp_lab1colquelaura\pplaboratorio1\notebook.h
+	"Marca.h"
+	"Tipo.h"
+	"Cliente.h"
+
+1652763815 c:\users\laura\desktop\pp_lab1colquelaura\pplaboratorio1\tipo.h
+
+1653308474 c:\users\laura\desktop\pp_lab1colquelaura\pplaboratorio1\menu.h
+
+1653316830 c:\users\laura\desktop\pp_lab1colquelaura\pplaboratorio1\informes.h
+	"Notebook.h"
+	"Trabajo.h"
+
+1653275340 source:c:\users\laura\desktop\pp_lab1colquelaura\pplaboratorio1\servicio.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Servicio.h"
+
+1652763872 c:\users\laura\desktop\pp_lab1colquelaura\pplaboratorio1\servicio.h
+
+1653274709 source:c:\users\laura\desktop\pp_lab1colquelaura\pplaboratorio1\tipo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Tipo.h"
+
+1653313413 source:c:\users\laura\desktop\pp_lab1colquelaura\pplaboratorio1\trabajo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Trabajo.h"
+	"Utn.h"
+
+1653315779 c:\users\laura\desktop\pp_lab1colquelaura\pplaboratorio1\trabajo.h
+	"Notebook.h"
+	"Servicio.h"
+	"Fecha.h"
+
+1653098329 source:c:\users\laura\desktop\pp_lab1colquelaura\pplaboratorio1\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"Utn.h"
+
+1653316800 source:c:\users\laura\desktop\pp_lab1colquelaura\pplaboratorio1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Utn.h"
+	"Notebook.h"
+	"Marca.h"
+	"Tipo.h"
+	"Servicio.h"
+	"Trabajo.h"
+	"Cliente.h"
+	"Informes.h"
+	"Menu.h"
+
